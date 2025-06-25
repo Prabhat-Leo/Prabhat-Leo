@@ -1,6 +1,6 @@
 # Hi there, I'm Prabhat! 👋
 
-![github-header-image.png](https://github.com/user-attachments/assets/8c7ab00d-43b8-4606-bd4e-0d7ec236491d)
+![github-header-image.png]()
 
 ## About Me 🚀
 
@@ -12,9 +12,17 @@ I'm a **Tech Student** with experience in **Software&Hardware**. I love tackling
 
 ## My Skills 🧠
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<p align="left"> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+</a>
+</p>
 
 ## Featured Projects 💻
 
@@ -22,5 +30,5 @@ I'm a **Tech Student** with experience in **Software&Hardware**. I love tackling
 
 ## Get in Touch 📬
 
-- **[Instagram]**([your_linkedin_profile_link](https://www.instagram.com/aryans_di/))
+-**[instagram]** (https://www.instagram.com/aryans_di/)
 
