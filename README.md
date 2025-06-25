@@ -1,6 +1,6 @@
 # Hi there, I'm Prabhat! 👋
 
-![Banner Image](your_banner_image_url_here)
+![github-header-image.png](https://github.com/user-attachments/assets/8c7ab00d-43b8-4606-bd4e-0d7ec236491d)
 
 ## About Me 🚀
 
