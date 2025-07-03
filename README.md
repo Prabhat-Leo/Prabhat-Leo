@@ -1,6 +1,6 @@
-# Hi there, I'm Prabhat! 👋
+# Hi there 👋
+  Welcome to my **Github** Profile 📖
 
-![github-header-image.png](https://github.com/Prabhat-Leo/Prabhat-Leo/blob/main/github-header-image.png)
 
 ## About Me 🚀
 
