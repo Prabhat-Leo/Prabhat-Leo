@@ -1,16 +1,12 @@
-# Hi there 👋
-  Welcome to my **Github** Profile 📖
-
-
-## About Me 🚀
+## 💫About Me
 
 I'm a **CS Student** with experience in **Software&Hardware**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[Numpy,Panda]**
-- 🌍 Languages: **[English,Hindi,Russian]**
-- 📫 How to reach me: **[Just DM on Insta]**
+- 🌱 Currently learning: **(Numpy,Panda)**
+- 🌍 Languages: **(English,Hindi,Bangla)**
+- 📫 How to reach me: **(Just DM on Insta)**
 
-## My Skills 🧠
+## 📈Skills
 
 <p align="left"> 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
@@ -31,11 +27,15 @@ I'm a **CS Student** with experience in **Software&Hardware**. I love tackling c
 
 </p>
 
-## Featured Projects 💻
+## 💻 Featured Projects
 
 *Not Available*
 
-## Get in Touch 📬
+## Social Media
 
--**[instagram]** (https://www.instagram.com/aryans_di/)
-
+<a href="https://www.instagram.com/aryans__di/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40"/>
+</a>
+<a href="mailto:itsaryans.dy@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40"/>
+</a>
