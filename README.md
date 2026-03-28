@@ -3,7 +3,7 @@ Hey there!
 I'm **Prabhat** an CS Student with experience in ***Programming Language***. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **(Numpy,Panda)**
-- 🌍 Languages: **(English,Hindi,Bangla)**
+- 🌍 Languages: **(English,Hindi,)**
 - 📫 How to reach me: **(Just DM on Insta)**
 
 ### ***Skills***
