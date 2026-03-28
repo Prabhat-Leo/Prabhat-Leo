@@ -1,15 +1,15 @@
-# 💫About Me
+# ***💫About Me***
 Hey there!
-I'm Prabhat an **CS Student** with experience in **Programming Language**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm **Prabhat** an CS Student with experience in ***Programming Language***. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **(Numpy,Panda)**
 - 🌍 Languages: **(English,Hindi,Bangla)**
 - 📫 How to reach me: **(Just DM on Insta)**
 
-### Skills
+### ***Skills***
 <p> <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js&theme=dark" /> </p> <p> <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy"/> <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas"/> </p>
 
-### 🧩 PROJECT MODULES
+### 🧩 ***PROJECT MODULES***
 
 + 🚀 Student Marks Analyzer
 → Data processing using Python & NumPy
@@ -19,7 +19,7 @@ I'm Prabhat an **CS Student** with experience in **Programming Language**. I lov
 
 + 📊 AI/Data Projects (Loading...)
 
-### 🌐 Connect With Me
+### 🌐***Connect With Me***
 <a href="https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/prabhat-sharma-0b1347359/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
